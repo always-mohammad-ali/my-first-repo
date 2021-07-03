@@ -1,0 +1,17 @@
+h3{
+    background-color: aqua;
+    border: 10px solid blue;
+    margin: 50px;
+    padding: 20px;
+    font-family: monospace;
+    font-size: 32px;
+}
+#point{
+    text-align: center;
+    border:10px solid orange;
+    margin: 50px 150px;
+    padding: 30px;
+    font-size: 33px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
